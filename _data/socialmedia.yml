@@ -1,0 +1,9 @@
+- name: GitHub
+  url: http://github.com/FIU-Neuro
+  class: icon-github
+  title: "Code"
+
+- name: Twitter
+  url: http://twitter.com/NeuroFIU
+  class: icon-twitter
+  title: ""
