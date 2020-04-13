@@ -50,14 +50,14 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
-  url: "/documentation/"
+- title: Projects
+  url: "/projects/"
   side: left
   dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+  - title: "CIS Workflows"
+    url: "/projects/cis-workflows/"
+  - title: "Program Wiki"
+    url: "/projects/program-wiki/"
 
 - title: Blog
   url: "/blog/"
